@@ -7,7 +7,7 @@
 docker load -i MPA.tar
 ```
 
-2. Развернуть приложение
+2. Развернуть приложение 
 
 ```bash
 docker compose up -d
